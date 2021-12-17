@@ -104,10 +104,9 @@ class _RegisterScreenState extends State<RegisterScreen> {
                                 )),
                             border: InputBorder.none,
                             hintText: 'Create Password',
-                            hintStyle: TextStyle(
+                            hintStyle: const TextStyle(
                               color: themecolor,
-                              fontSize:
-                                  MediaQuery.of(context).size.width * 0.048,
+                              fontSize: 14,
                             ),
                           ),
                         ),
@@ -153,10 +152,9 @@ class _RegisterScreenState extends State<RegisterScreen> {
                                 )),
                             border: InputBorder.none,
                             hintText: 'Confirm Password',
-                            hintStyle: TextStyle(
+                            hintStyle: const TextStyle(
                               color: themecolor,
-                              fontSize:
-                                  MediaQuery.of(context).size.width * 0.048,
+                              fontSize: 14,
                             ),
                           ),
                         ),

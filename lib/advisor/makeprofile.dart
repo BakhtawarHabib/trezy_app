@@ -72,7 +72,7 @@ class _MakeAdvisorProfileState extends State<MakeAdvisorProfile> {
                                 height: 10.h,
                               ),
                               MakeProfileTextField(
-                                hinttext: 'Date of birth…',
+                                hinttext: 'Your name…',
                                 suffixicon: 'images/user.svg',
                               ),
                               SizedBox(
@@ -86,7 +86,7 @@ class _MakeAdvisorProfileState extends State<MakeAdvisorProfile> {
                                 height: 10.h,
                               ),
                               MakeProfileTextField(
-                                hinttext: 'Date of birth…',
+                                hinttext: 'Your city…',
                                 suffixicon: 'images/location.svg',
                               ),
                             ],
