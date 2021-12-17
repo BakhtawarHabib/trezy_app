@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_60" data-name="Group 60" transform="translate(-38 -697)">
+    <circle id="Ellipse_43" data-name="Ellipse 43" cx="15" cy="15" r="15" transform="translate(38 697)" fill="#f9b331"/>
+    <path id="Icon_material-mail-outline" data-name="Icon material-mail-outline" d="M16.132,6H4.459A1.457,1.457,0,0,0,3.007,7.459L3,16.214a1.463,1.463,0,0,0,1.459,1.459H16.132a1.463,1.463,0,0,0,1.459-1.459V7.459A1.463,1.463,0,0,0,16.132,6Zm0,10.214H4.459v-7.3L10.3,12.566l5.837-3.648ZM10.3,11.107,4.459,7.459H16.132Z" transform="translate(42.704 700)" fill="#fff"/>
+  </g>
+</svg>
